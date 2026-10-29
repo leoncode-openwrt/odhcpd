@@ -1,4 +1,8 @@
-# odhcpd - Embedded DHCP/DHCPv6/RA Server & Relay
+# LeonCode odhcpd — Embedded DHCP/DHCPv6/RA Server & Relay
+
+This maintenance branch contains the stable DNS search-domain relay backport.
+See [LEONCODE.md](LEONCODE.md) for provenance and
+[packages](https://github.com/leoncode-openwrt/packages) for automated builds.
 
 ## Abstract
 
