@@ -1,6 +1,6 @@
 # LeonCode odhcpd maintenance
 
-`leoncode/stable` preserves OpenWrt base
+`main` preserves OpenWrt base
 `5d7be43f8b9dec0eb47e245cfab81108bb131273` and applies the deployed relay DNS
 search-domain backport as a separate commit, with its regression tests.
 
